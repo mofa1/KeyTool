@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resource/image/icon/max.svg</file>
+        <file>resource/image/icon/nor.svg</file>
+        <file>resource/image/icon/close_black.svg</file>
+        <file>resource/image/icon/close_white.svg</file>
+        <file>resource/image/icon/mini.svg</file>
+        <file>resource/image/icon/键盘.svg</file>
+        <file>resource/image/icon/设置.svg</file>
+        <file>resource/image/icon/主页.svg</file>
+        <file>resource/image/icon/设置_灰.svg</file>
+        <file>resource/image/icon/键盘_灰.svg</file>
+        <file>resource/image/icon/主页_灰.svg</file>
+        <file>resource/image/icon/发送.svg</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>resource/image/img_show/s1.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
