@@ -2,7 +2,7 @@ import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
 
-import GameTool
+import KeyTool
 /*应用界面
     [0] 需要实例化的界面
     [1] 左侧切换栏   leftToggle

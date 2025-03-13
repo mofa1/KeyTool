@@ -1,6 +1,6 @@
 import QtQuick
 import QtQuick.Controls
-import GameTool
+import KeyTool
 
 import "import_qm_file/window_qml"
 import "import_qm_file/app_qml"
